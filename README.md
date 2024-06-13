@@ -1,0 +1,2 @@
+# ServerpodMovieApp
+Serverpod server
